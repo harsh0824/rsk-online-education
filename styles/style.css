@@ -130,6 +130,7 @@
 
           #title{
               text-align: center;
+              filter: blur(8px);
           }
 
 
@@ -240,3 +241,4 @@
       height: auto;
       margin-left: 10px;
     }
+        
